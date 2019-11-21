@@ -1,0 +1,150 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.top-header-area {
+	height: 30px;
+ background color: #E6E5E5;
+}
+
+.header-area {
+	height: 30px;
+	background-color: #E6E5E5;
+}
+
+.classy-navbar {
+	color: black;
+	background-color: #E2E2E2;
+	padding: 15px;
+}
+
+.credit-main-menu {
+	background-color: #E2E2E2;
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+span {
+	color: #AE275F;
+}
+.justify-content-between {
+	background-color: #E2E2E2;
+}
+
+.breakpoint-off {
+	background-color: #E2E2E2;
+}
+
+.classycloseIcon {
+	background-color: #E2E2E2;
+}
+
+.classy-nav-container {
+	background-color: #E2E2E2;
+}
+
+.col-12 {
+	background-color: ##AE275F
+}
+
+.btn-sm {
+	background-color: #AE275F;
+	color: white;
+}
+
+.icon-profits {
+	background-color: #AE275F;
+}
+
+.icon {
+	background-color: #AE275F;
+}
+
+.d-flex {
+	
+}
+
+.single-service-area {
+	background-color: 
+}
+
+.icon-money-1 {
+	background-color: #AE275F;
+}
+
+.icon-coin {
+	background-color: #AE275F;
+}
+
+.icon-smartphone-1 {
+	background-color: #AE275F;
+}
+
+.icon-diamond {
+	background-color: #AE275F;
+}
+
+.icon-piggy-bank {
+	background-color: #AE275F;
+}
+
+.section-padding-100-0 {
+	background-color:
+}
+
+.col-sm-6 {
+	
+}
+
+.col-lg-3 {
+background-color: 
+}
+
+.mt-50 {
+	background-color: #AE275F;
+}
+
+.credit-btn {
+	background-color: #AE275F;
+	color: white;
+}
+
+.btn {
+	
+}

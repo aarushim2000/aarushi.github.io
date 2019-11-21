@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>One Time Password</title>
+	<link rel="stylesheet" href="style.css">
+    <link href="css/bootstrap-4.3.1.css" rel="stylesheet" type="text/css">
+    <link href="Home.css" rel="stylesheet" type="text/css">
+    <link href="Form.css" rel="stylesheet" type="text/css">
+    <link href="../css files/OTP.css" rel="stylesheet" type="text/css">
+    <link href="../EstateAgency/css/style.css" rel="stylesheet" type="text/css">
+    <link href="../css files/montserrat-font.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	
+<div id="wrapper">
+  <div id="dialog">
+    <button class="close">×</button>
+    <h3>Please enter the 4-digit verification code we sent via SMS:</h3>
+    
+    <div id="form">
+      <input type="text" maxLength="6" size="6" min="0" max="9" pattern="[0-9]{1}" />
+      <input type="text" maxLength="6" size="6" min="0" max="9" pattern="[0-9]{1}" />
+	  <input type="text" maxLength="6" size="6" min="0" max="9" pattern="[0-9]{1}" />
+	  <input type="text" maxLength="6" size="6" min="0" max="9" pattern="[0-9]{1}" />
+     <button class="login100-form-btn"><a href="Confirmation.html">
+							VERIFY
+							</a></button>
+    </div>
+    
+    <div>
+      Didn't receive the code?<br />
+      <a href="#">Send code again</a><br />
+      <a href="#">Change phone number</a>
+   </div>
+<script type="text/javascript" src="../js files/OTP.js"></script>			
+    
+</body>
+</html>

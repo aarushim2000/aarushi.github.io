@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.imge {
+align-content: flex-start;
+}
+
+
+div {
+	align-content: stretch;
+}
+
+.price-box {
+	border: #AE255F !important;
+}
+
+.fa {
+	
+}
+
+.back-to-top {
+	color: #AE255F !important;
+}
+
+.fa-gamepad {
+	color: #AE255F;
+}
+
+.btn-primary {
+	background-color: #AE255F;
+}
+
+.fa-bell-o {
+	color: #AE255F;
+	
+}
+
+.fa-search {
+	color: #AE255F;
+	background-color: white;
+}
+
+.btn {
+	
+}
+
+.navbar-toggle-box-collapse {
+	background-color: white;
+}
